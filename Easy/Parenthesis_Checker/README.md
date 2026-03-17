@@ -1,4 +1,6 @@
-Given a string s, composed of different combinations of '(' , ')', '{', '}', '[', ']'. Determine whether the Expression is balanced or not.
+## Problem : Parenthesis Checker
+
+Given a string s, composed of different combinations of '(' , ')', '{', '}', '[', ']'. Determine whether the Expression is **balanced** or not.
 An expression is balanced if:
 
 Each opening bracket has a corresponding closing bracket of the same type.
@@ -21,6 +23,6 @@ Constraints:
 1 ≤ s.size() ≤ 106
 s[i] ∈ {'{', '}', '(', ')', '[', ']'}
 
-Expected Complexities
-Time Complexity: O(n)
-Auxiliary Space: O(n)
+## 🕒 Expected Complexities
+**Time Complexity:** O(n) <br/>
+**Auxiliary Space:** O(n)
