@@ -11,21 +11,25 @@ An expression is balanced if:
 
 ## 📝 Examples :
 
-> **Input:** s = "[{()}]"\
-> **Output:** true\
-> **Explanation:** All the brackets are well-formed.
+<pre><span style="font-size: 10pt;"><strong>Input: </strong>s = "[{()}]"
+<strong>Output: </strong>true
+<strong>Explanation: </strong>All the brackets are well-formed.
+</span></pre>
 
-> **Input:** s = "[()()]{}"\
-> **Output:** true\
-> **Explanation:** All the brackets are well-formed.
+<pre><span style="font-size: 10pt;"><strong>Input: </strong>s = "[()()]{}"
+<strong>Output: </strong>true
+<strong>Explanation: </strong>All the brackets are well-formed.
+</span></pre>
 
-> **Input:** s = "([]"\
-> **Output:** false\
-> **Explanation:** The expression is not balanced as there is a missing ')' at the end.
+<pre><span style="font-size: 10pt;"><strong>Input: </strong>s = "([]"
+<strong>Output: </strong>false
+<strong>Explanation: </strong>The expression is not balanced as there is a missing ')' at the end.
+</span></pre>
 
-> **Input:** s = "([{]})"\
-> **Output:** false\
-> **Explanation:** The expression is not balanced as there is a closing ']' before the closing '}'.
+<pre><span style="font-size: 10pt;"><strong>Input: </strong>s = "([{]})"
+<strong>Output: </strong>false
+<strong>Explanation: </strong>The expression is not balanced as there is a closing ']' before the closing '}'.
+</span></pre>
 
 ## 🚧 Constraints
 
