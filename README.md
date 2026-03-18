@@ -31,6 +31,7 @@ GeeksForGeeks.com offers a selection of problems split into different **difficul
 | :--: | :--: |:--: |:--: | :--:|
 | 001 | [Angle between hour and minutes hand](https://www.geeksforgeeks.org/problems/angle-between-hour-and-minute-hand0545/1)| ✔️ Solved | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/theoroton/GeeksForGeeks_Problems/blob/main/Medium/Angle_between_hour_and_minute_hand/solution.py)| Mathematical<br> Algorithms |
 | 002 | [Minimum Jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/0)| ✔️ Solved | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/theoroton/GeeksForGeeks_Problems/blob/main/Medium/Minimum_Jumps/solution.py)| Arrays<br> Greedy<br> Data Structures<br> Algorithms |
+| 003 | [Validate an IP Address](https://www.geeksforgeeks.org/problems/validate-an-ip-address-1587115621/0)| ✔️ Solved | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/theoroton/GeeksForGeeks_Problems/blob/main/Medium/Validate_an_IP_Address/solution.py)| Strings<br> Data Structures |
 
 ### 🟥 Hard
 
